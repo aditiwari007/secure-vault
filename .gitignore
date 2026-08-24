@@ -1,0 +1,13 @@
+# Secure Vault private/runtime data
+vault/
+vault_data/
+salt.bin
+manifest.enc
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
